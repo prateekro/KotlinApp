@@ -35,4 +35,5 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         Toast.makeText(this, "Activity Closed on Destruction", Toast.LENGTH_SHORT).show();
     }
+
 }
