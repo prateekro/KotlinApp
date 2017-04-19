@@ -29,4 +29,10 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
         Toast.makeText(this, "Back into Foreground", Toast.LENGTH_SHORT).show();
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        Toast.makeText(this, "Activity Closed on Destruction", Toast.LENGTH_SHORT).show();
+    }
 }
