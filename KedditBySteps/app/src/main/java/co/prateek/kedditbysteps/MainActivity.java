@@ -17,4 +17,10 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         Toast.makeText(this, "Loading Completed", Toast.LENGTH_SHORT).show();
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        Toast.makeText(this, "Called for background", Toast.LENGTH_SHORT).show();
+    }
 }
