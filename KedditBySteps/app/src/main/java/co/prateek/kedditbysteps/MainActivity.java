@@ -23,4 +23,10 @@ public class MainActivity extends AppCompatActivity {
         super.onPause();
         Toast.makeText(this, "Called for background", Toast.LENGTH_SHORT).show();
     }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        Toast.makeText(this, "Back into Foreground", Toast.LENGTH_SHORT).show();
+    }
 }
