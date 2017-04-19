@@ -11,11 +11,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
-    override fun onStart() {
-        super.onStart()
-        Toast.makeText(this, "Loading Completed", Toast.LENGTH_SHORT).show()
-    }
-
     override fun onPause() {
         super.onPause()
         Toast.makeText(this, "Called for background", Toast.LENGTH_SHORT).show()
