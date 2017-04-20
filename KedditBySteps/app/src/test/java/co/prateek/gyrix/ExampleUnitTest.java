@@ -1,4 +1,4 @@
-package co.prateek.kedditbysteps;
+package co.prateek.gyrix;
 
 import org.junit.Test;
 

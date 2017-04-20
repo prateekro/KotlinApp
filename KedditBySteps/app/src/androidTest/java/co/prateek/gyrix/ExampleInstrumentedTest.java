@@ -1,4 +1,4 @@
-package co.prateek.kedditbysteps;
+package co.prateek.gyrix;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
