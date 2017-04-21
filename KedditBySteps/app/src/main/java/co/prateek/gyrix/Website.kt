@@ -14,21 +14,16 @@ import android.webkit.WebResourceRequest
 import java.util.*
 
 
-class MainActivity : AppCompatActivity() {
+class Website : AppCompatActivity() {
 
     //var mywebview : WebView = null  //as WebView
-    lateint var mywebview : WebView //? = null
+    var mywebview : WebView? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         val toolbar = findViewById(R.id.toolbar) as Toolbar
         setSupportActionBar(toolbar)
-    }
-
-    override fun onStart() {
-        super.onStart()
-
         mywebview = findViewById(R.id.webViewGyrix) as WebView
 
         (mywebview as WebView).setWebViewClient(object : WebViewClient() {
@@ -40,8 +35,17 @@ class MainActivity : AppCompatActivity() {
 
         (mywebview as WebView).getSettings().setJavaScriptEnabled(true)
         (mywebview as WebView).getSettings().setSupportZoom(true)
+        (mywebview as WebView).settings.setSupportMultipleWindows(true)
+
+
 
         (mywebview as WebView).loadUrl("http://www.gyrix.com.au/")
+    }
+
+    override fun onStart() {
+        super.onStart()
+
+
     }
 
     override fun onKeyDown(keyCode: Int, event: KeyEvent): Boolean {
