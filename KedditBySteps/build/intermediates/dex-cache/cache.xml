@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="685169f3d8202cc5366a480b2ccb5f0106f73e9f">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_b9f0817764320debd4855ca3b991b8e96c483ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.1/98e484e67f913e934559f7f55f0c94be5593f03c/kotlin-stdlib-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98e484e67f913e934559f7f55f0c94be5593f03c">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.1_2f206790444847ba6d80ff05a20ae1ce92013ce5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/.android/build-cache/ac42d74ef1efba6c88ae64852447be0578414c17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f7821b31b75044eeb127bcf1709a66f522db91a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.1/e3be78b463658ae5a8c8b446b811671998c91f5/kotlin-stdlib-jre7-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e3be78b463658ae5a8c8b446b811671998c91f5">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.1_26554598b8683a5812aa28bd41421ddf7443c4ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_b88d499b74b37d309aae41f4943671dfce37b235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e35114fbd1caa0189875b12e949447398254e3e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/gyrixcontact/AndroidStudioProjects/LearnKotlin/KedditBySteps/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3cb0721cc841a4c2d2284a0bc745d9c5fba63c4/classes.dex" />
+    </item>
+
+</items>
